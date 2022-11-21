@@ -1,3 +1,4 @@
 def word():
   print("hello world")
 word()
+print(9)
